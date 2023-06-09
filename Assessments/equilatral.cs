@@ -16,6 +16,7 @@ namespace Assessments
 
             area = (1.73 * side * side) / 4;
             Console.WriteLine($"Area of equilateral triangle is {area}");
+            Console.WriteLine("End Of Program");
         }
     }
 }
